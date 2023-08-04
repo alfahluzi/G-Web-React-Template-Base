@@ -1,9 +1,8 @@
 # Getting Started with Create React App
 
 This is a project base for React. Download with ZIP and start your Project!
-This template already installed tailwindcss.
 
-# Getting Started with Create React App
+This template already installed tailwindcss.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
